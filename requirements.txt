@@ -1,0 +1,33 @@
+# LLM and AI
+ollama>=0.2.0
+transformers>=4.35.0
+sentence-transformers>=2.2.2
+torch>=2.0.0
+
+# Web and APIs
+requests>=2.31.0
+httpx>=0.25.0
+beautifulsoup4>=4.12.0
+selenium>=4.15.0
+
+# Data processing
+pandas>=2.1.0
+numpy>=1.24.0
+pydantic>=2.4.0
+
+# Environment and config
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
+
+# Development
+black>=23.9.0
+isort>=5.12.0
+pylint>=3.0.0
+pytest>=7.4.0
+mypy>=1.6.0
+
+# Logging
+loguru>=0.7.0
+
+# Wikipedia
+wikipedia>=1.4.0
